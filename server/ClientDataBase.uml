@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.tistory.hdnua.sutda.ClientDataBase</OriginalElement>
+  <nodes>
+    <node x="308.11545138888897" y="97.0">java.lang.Throwable</node>
+    <node x="224.0" y="311.0">com.tistory.hdnua.sutda.LoginJob</node>
+    <node x="756.4045138888889" y="194.0">com.tistory.hdnua.sutda.ClientInfo</node>
+    <node x="894.7387152777778" y="311.0">com.tistory.hdnua.sutda.ClientDataBase</node>
+    <node x="39.0" y="428.0">java.lang.Runnable</node>
+    <node x="361.74045138888897" y="194.0">java.lang.Exception</node>
+    <node x="966.9887152777778" y="194.0">java.lang.Iterable</node>
+    <node x="305.61545138888897" y="0.0">java.io.Serializable</node>
+    <node x="0.0" y="311.0">java.lang.FunctionalInterface</node>
+    <node x="701.9904513888889" y="311.0">com.tistory.hdnua.sutda.HDException</node>
+    <node x="785.2482638888888" y="428.0">com.tistory.hdnua.sutda.Server</node>
+    <node x="389.99045138888897" y="311.0">com.tistory.hdnua.sutda.RegisterJob</node>
+    <node x="554.9904513888889" y="311.0">com.tistory.hdnua.sutda.GameJob</node>
+    <node x="872.2482638888888" y="535.0">com.tistory.hdnua.sutda.MessageInfo</node>
+    <node x="356.87326388888886" y="535.0">com.tistory.hdnua.sutda.Job</node>
+    <node x="0.0" y="724.0">com.tistory.hdnua.sutda.Handy</node>
+    <node x="767.2482638888888" y="632.0">com.tistory.hdnua.sutda.WaitingRoomJob</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.tistory.hdnua.sutda.Server" target="com.tistory.hdnua.sutda.HDException">
+      <point x="-6.375" y="-23.5" />
+      <point x="829.8732638888888" y="378.0" />
+      <point x="779.4904513888889" y="378.0" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="java.lang.Throwable" target="java.io.Serializable">
+      <point x="0.0" y="-23.5" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+      <point x="0.0" y="-23.5" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="java.lang.Exception" target="java.lang.Throwable">
+      <point x="0.0" y="-23.5" />
+      <point x="50.625" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.WaitingRoomJob" target="com.tistory.hdnua.sutda.MessageInfo">
+      <point x="63.0" y="-23.5" />
+      <point x="924.7482638888888" y="607.0" />
+      <point x="950.2482638888888" y="607.0" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Server" target="com.tistory.hdnua.sutda.ClientInfo">
+      <point x="6.374999999999972" y="-23.5" />
+      <point x="842.6232638888888" y="378.0" />
+      <point x="873.2387152777778" y="378.0" />
+      <point x="873.2387152777778" y="291.0" />
+      <point x="831.0711805555555" y="291.0" />
+      <point x="10.666666666666629" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Server" target="com.tistory.hdnua.sutda.WaitingRoomJob">
+      <point x="25.49999999999997" y="23.5" />
+      <point x="0.0" y="-23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Server" target="com.tistory.hdnua.sutda.ClientDataBase">
+      <point x="44.625" y="-23.5" />
+      <point x="880.8732638888888" y="408.0" />
+      <point x="1022.9887152777778" y="408.0" />
+      <point x="42.75" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Job" target="com.tistory.hdnua.sutda.ClientInfo">
+      <point x="-6.583333333333314" y="-23.5" />
+      <point x="389.78993055555554" y="495.0" />
+      <point x="379.49045138888897" y="495.0" />
+      <point x="379.49045138888897" y="281.0" />
+      <point x="788.4045138888889" y="281.0" />
+      <point x="-32.0" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.LoginJob" target="com.tistory.hdnua.sutda.Job">
+      <point x="-31.0" y="23.5" />
+      <point x="255.0" y="505.0" />
+      <point x="376.62326388888886" y="505.0" />
+      <point x="-19.75" y="-23.5" />
+    </edge>
+    <edge source="java.lang.Throwable" target="java.lang.Throwable">
+      <point x="-16.875" y="23.5" />
+      <point x="358.74045138888897" y="174.0" />
+      <point x="278.11545138888897" y="174.0" />
+      <point x="278.11545138888897" y="120.5" />
+      <point x="-67.5" y="-0.0" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.ClientDataBase" target="java.lang.Iterable">
+      <point x="42.75" y="-23.5" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Job" target="java.lang.Runnable">
+      <point x="-32.916666666666686" y="-23.5" />
+      <point x="363.4565972222222" y="515.0" />
+      <point x="102.0" y="515.0" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.LoginJob" target="com.tistory.hdnua.sutda.ClientInfo">
+      <point x="31.0" y="-23.5" />
+      <point x="317.0" y="271.0" />
+      <point x="767.0711805555555" y="271.0" />
+      <point x="-53.33333333333337" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Job" target="com.tistory.hdnua.sutda.Server">
+      <point x="32.916666666666686" y="-23.5" />
+      <point x="429.28993055555554" y="515.0" />
+      <point x="810.7482638888888" y="515.0" />
+      <point x="-25.5" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.HDException" target="java.lang.Exception">
+      <point x="0.0" y="-23.5" />
+      <point x="779.4904513888889" y="261.0" />
+      <point x="469.24045138888897" y="261.0" />
+      <point x="43.0" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.RegisterJob" target="com.tistory.hdnua.sutda.ClientInfo">
+      <point x="36.25" y="-23.5" />
+      <point x="498.74045138888897" y="291.0" />
+      <point x="809.7378472222223" y="291.0" />
+      <point x="-10.666666666666629" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Server" target="com.tistory.hdnua.sutda.RegisterJob">
+      <point x="-31.875" y="-23.5" />
+      <point x="804.3732638888888" y="398.0" />
+      <point x="498.74045138888897" y="398.0" />
+      <point x="36.25" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.RegisterJob" target="java.lang.Exception">
+      <point x="-36.25" y="-23.5" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.GameJob" target="com.tistory.hdnua.sutda.Job">
+      <point x="-31.75" y="23.5" />
+      <point x="586.7404513888889" y="505.0" />
+      <point x="416.12326388888886" y="505.0" />
+      <point x="19.75" y="-23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.LoginJob" target="java.lang.Exception">
+      <point x="-31.0" y="-23.5" />
+      <point x="255.0" y="261.0" />
+      <point x="383.24045138888897" y="261.0" />
+      <point x="-43.0" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Server" target="com.tistory.hdnua.sutda.LoginJob">
+      <point x="-44.625" y="-23.5" />
+      <point x="791.6232638888888" y="408.0" />
+      <point x="317.0" y="408.0" />
+      <point x="31.0" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Server" target="com.tistory.hdnua.sutda.GameJob">
+      <point x="-19.125" y="-23.5" />
+      <point x="817.1232638888888" y="388.0" />
+      <point x="650.2404513888889" y="388.0" />
+      <point x="31.75" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.WaitingRoomJob" target="com.tistory.hdnua.sutda.Job">
+      <point x="-63.0" y="-23.5" />
+      <point x="798.7482638888888" y="607.0" />
+      <point x="396.37326388888886" y="607.0" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.ClientDataBase" target="com.tistory.hdnua.sutda.ClientInfo">
+      <point x="-42.75" y="-23.5" />
+      <point x="937.4887152777778" y="271.0" />
+      <point x="873.7378472222222" y="271.0" />
+      <point x="53.33333333333326" y="23.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.RegisterJob" target="com.tistory.hdnua.sutda.Job">
+      <point x="-36.25" y="23.5" />
+      <point x="426.24045138888897" y="495.0" />
+      <point x="402.9565972222222" y="495.0" />
+      <point x="6.583333333333314" y="-23.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9039615846338536" x="372.5" y="406.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

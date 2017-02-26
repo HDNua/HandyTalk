@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.tistory.hdnua.sutda.Assign3_5</OriginalElement>
+  <nodes>
+    <node x="628.3446180555554" y="81.0">com.tistory.hdnua.sutda.UserInfo</node>
+    <node x="186.66790674603186" y="81.0">java.lang.Throwable</node>
+    <node x="131.5" y="384.0">com.tistory.hdnua.sutda.RegisterManager</node>
+    <node x="10.5" y="384.0">com.tistory.hdnua.sutda.HTException</node>
+    <node x="777.3479662698412" y="202.0">java.lang.Runnable</node>
+    <node x="791.8479662698412" y="283.0">com.tistory.hdnua.sutda.NetworkJob</node>
+    <node x="221.54290674603186" y="283.0">java.lang.Exception</node>
+    <node x="339.85540674603186" y="0.0">java.io.Serializable</node>
+    <node x="802.0946180555554" y="81.0">java.lang.FunctionalInterface</node>
+    <node x="505.84796626984127" y="283.0">com.tistory.hdnua.sutda.WaitingRoomForm</node>
+    <node x="660.8479662698412" y="283.0">com.tistory.hdnua.sutda.LoginManager</node>
+    <node x="452.5550595238094" y="202.0">com.tistory.hdnua.sutda.WaitingRoomManager</node>
+    <node x="274.5" y="384.0">com.tistory.hdnua.sutda.TextFormatException</node>
+    <node x="616.1800595238094" y="485.0">com.tistory.hdnua.sutda.Assign3_5</node>
+    <node x="579.6800595238094" y="384.0">com.tistory.hdnua.sutda.LoginForm</node>
+    <node x="145.0" y="561.0">com.tistory.hdnua.sutda.Handy</node>
+    <node x="300.1283482142858" y="202.0">com.tistory.hdnua.sutda.HDForm</node>
+    <node x="0.0" y="561.0">com.tistory.hdnua.sutda.MessageBox</node>
+    <node x="341.2633928571428" y="485.0">com.tistory.hdnua.sutda.RegisterForm</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.tistory.hdnua.sutda.NetworkJob" target="java.lang.Runnable">
+      <point x="0.0" y="-15.5" />
+      <point x="21.0" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.WaitingRoomForm" target="com.tistory.hdnua.sutda.WaitingRoomManager">
+      <point x="0.0" y="-15.5" />
+      <point x="573.3479662698412" y="263.0" />
+      <point x="568.0550595238094" y="263.0" />
+      <point x="38.5" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.RegisterForm" target="com.tistory.hdnua.sutda.TextFormatException">
+      <point x="0.0" y="-15.5" />
+      <point x="393.2633928571428" y="435.0" />
+      <point x="347.5" y="435.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.RegisterForm" target="com.tistory.hdnua.sutda.HDForm">
+      <point x="-44.571428571428555" y="-15.5" />
+      <point x="348.6919642857142" y="465.0" />
+      <point x="0.0" y="465.0" />
+      <point x="0.0" y="263.0" />
+      <point x="313.4616815476191" y="263.0" />
+      <point x="-26.666666666666686" y="15.5" />
+    </edge>
+    <edge source="java.lang.Throwable" target="java.io.Serializable">
+      <point x="0.0" y="-15.5" />
+      <point x="231.16790674603186" y="56.0" />
+      <point x="363.35540674603186" y="56.0" />
+      <point x="-23.5" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.RegisterManager" target="java.lang.Exception">
+      <point x="0.0" y="-15.5" />
+      <point x="193.0" y="364.0" />
+      <point x="253.79290674603186" y="364.0" />
+      <point x="-10.75" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.UserInfo" target="java.io.Serializable">
+      <point x="0.0" y="-15.5" />
+      <point x="667.3446180555554" y="56.0" />
+      <point x="410.35540674603186" y="56.0" />
+      <point x="23.5" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.WaitingRoomForm" target="com.tistory.hdnua.sutda.HDForm">
+      <point x="-54.0" y="-15.5" />
+      <point x="519.3479662698412" y="263.0" />
+      <point x="366.79501488095246" y="263.0" />
+      <point x="26.666666666666686" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.LoginForm" target="com.tistory.hdnua.sutda.UserInfo">
+      <point x="38.33333333333337" y="-15.5" />
+      <point x="664.0133928571428" y="364.0" />
+      <point x="899.3479662698412" y="364.0" />
+      <point x="899.3479662698412" y="172.0" />
+      <point x="693.3446180555554" y="172.0" />
+      <point x="26.0" y="15.5" />
+    </edge>
+    <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+      <point x="0.0" y="-15.5" />
+      <point x="819.3479662698412" y="182.0" />
+      <point x="870.0946180555554" y="182.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.LoginForm" target="com.tistory.hdnua.sutda.RegisterForm">
+      <point x="11.5" y="15.5" />
+      <point x="637.1800595238094" y="465.0" />
+      <point x="437.83482142857133" y="465.0" />
+      <point x="44.571428571428555" y="-15.5" />
+    </edge>
+    <edge source="java.lang.Exception" target="java.lang.Throwable">
+      <point x="0.0" y="-15.5" />
+      <point x="33.375" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.LoginForm" target="com.tistory.hdnua.sutda.HDForm">
+      <point x="-23.0" y="-15.5" />
+      <point x="602.6800595238094" y="344.0" />
+      <point x="340.1283482142858" y="344.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.LoginForm" target="com.tistory.hdnua.sutda.WaitingRoomForm">
+      <point x="-7.666666666666629" y="-15.5" />
+      <point x="618.0133928571428" y="334.0" />
+      <point x="573.3479662698412" y="334.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="java.lang.Throwable" target="java.lang.Throwable">
+      <point x="-33.375" y="15.5" />
+      <point x="197.79290674603186" y="132.0" />
+      <point x="166.66790674603186" y="132.0" />
+      <point x="166.66790674603186" y="106.83333333333331" />
+      <point x="-44.5" y="10.333333333333314" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.HTException" target="java.lang.Exception">
+      <point x="0.0" y="-15.5" />
+      <point x="61.0" y="354.0" />
+      <point x="232.29290674603186" y="354.0" />
+      <point x="-32.25" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.RegisterForm" target="com.tistory.hdnua.sutda.LoginForm">
+      <point x="29.714285714285722" y="-15.5" />
+      <point x="422.97767857142844" y="455.0" />
+      <point x="614.1800595238094" y="455.0" />
+      <point x="-11.5" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.LoginForm" target="com.tistory.hdnua.sutda.LoginManager">
+      <point x="7.666666666666629" y="-15.5" />
+      <point x="633.346726190476" y="344.0" />
+      <point x="688.5979662698412" y="344.0" />
+      <point x="-27.75" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.RegisterForm" target="com.tistory.hdnua.sutda.RegisterManager">
+      <point x="-14.857142857142833" y="-15.5" />
+      <point x="378.4062499999999" y="445.0" />
+      <point x="223.75" y="445.0" />
+      <point x="30.75" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.TextFormatException" target="java.lang.Exception">
+      <point x="0.0" y="-15.5" />
+      <point x="347.5" y="364.0" />
+      <point x="275.29290674603186" y="364.0" />
+      <point x="10.75" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.Assign3_5" target="com.tistory.hdnua.sutda.LoginForm">
+      <point x="0.0" y="-15.5" />
+      <point x="34.5" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.WaitingRoomForm" target="com.tistory.hdnua.sutda.UserInfo">
+      <point x="27.0" y="-15.5" />
+      <point x="600.3479662698412" y="253.0" />
+      <point x="689.3050595238094" y="253.0" />
+      <point x="689.3050595238094" y="182.0" />
+      <point x="667.3446180555554" y="182.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.LoginForm" target="java.lang.Exception">
+      <point x="-38.33333333333337" y="-15.5" />
+      <point x="587.346726190476" y="354.0" />
+      <point x="296.79290674603186" y="354.0" />
+      <point x="32.25" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.WaitingRoomManager" target="com.tistory.hdnua.sutda.UserInfo">
+      <point x="0.0" y="-15.5" />
+      <point x="529.5550595238094" y="182.0" />
+      <point x="641.3446180555554" y="182.0" />
+      <point x="-26.0" y="15.5" />
+    </edge>
+    <edge source="com.tistory.hdnua.sutda.WaitingRoomForm" target="java.lang.Runnable">
+      <point x="54.0" y="-15.5" />
+      <point x="627.3479662698412" y="263.0" />
+      <point x="798.3479662698412" y="263.0" />
+      <point x="-21.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="563.5" y="292.0" />
+  <SelectedNodes>
+    <node>com.tistory.hdnua.sutda.Assign3_5</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

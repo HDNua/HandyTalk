@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_338de95b80293f42563a1fb0f56a64a453f5db87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_86348b220b65303aa5a1ce90577d239f4d309d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_37de058d67275f6b869662f5767f2f2c86094fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1be24197a59debf42c45c22d53d3e06fec8e3244">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\instant-run_6e7e83a87a1c2d9c36cc64235bf836f456fb7027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_d66e95d1a9ddc3ad734e78bd14efe5a790a96289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_81925cdfa89c8d4f3dbdedd431f682846cae8a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6828c53616db044f7ebcd721e203ffbd79e31bb">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0b011f551cc0dd28dc82f1c5ae44d40adbf0bd72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\libs\Naverspeech-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da465f5d7754f74ebb5a76da98a8c5285c525f6f">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\Naverspeech-1.0.4_3b45c8b7ba54e899a1ddac9b874196d7c670853d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_ec032101d1e9cd58539efa691e364f86a388348c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c726de0b4f384ca8f6f87f6d241ee42ae208eabf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_66e6471244c25d326536a2774c699d1d0352b47b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HandyMain\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_09c97be497403d7e82812c02d4af68481a201005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_919247a88719de0de472a13ea696745da6076bc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ad7ec694edb3b8b1283fb8caf7d0ea0adb7838cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_8f550d692e21a094c568f7ba7e820d58a5d2b8b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_3fefed3c231ed7754daf29bd0c324fd2cecfaaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_04b615742327cc65f7191a93f4b2d696fab04f24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\handy\work\project\Sutda\client_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\handy\work\project\Sutda\client_android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_4f17edb7d7b71a9fd731763fe4c6534c68291fa2.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,6 @@
+Sutda PC Client v3.2.0
+
+- 잠재 결함 해결.
+
+
+end.

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tistory.hdnua.sutda">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+
+        <!-- 2016-11-10.04:33 -> FirstAndroidForm 정의 -->
+        <activity android:name=".FirstAndroidForm">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 2016-11-10.04:33 -> 기타 폼 정의 추가 -->
+        <activity android:name=".RegisterAndroidForm"></activity>
+        <activity android:name=".LoginAndroidForm"></activity>
+        <activity android:name=".WaitingRoomAndroidForm"></activity>
+
+        <activity android:name=".MainActivity"></activity>
+
+    </application>
+
+</manifest>

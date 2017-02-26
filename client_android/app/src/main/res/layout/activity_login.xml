@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="한도영"
+        android:ems="10"
+        android:id="@+id/_EditText_UserID"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:layout_marginTop="62dp"
+        android:id="@+id/_EditText_Password"
+        android:layout_alignTop="@+id/_EditText_UserID"
+        android:layout_alignLeft="@+id/_EditText_UserID"
+        android:layout_alignStart="@+id/_EditText_UserID"
+        android:layout_alignRight="@+id/_EditText_UserID"
+        android:layout_alignEnd="@+id/_EditText_UserID"
+        android:text="1234" />
+
+    <Button
+        android:text="로그인"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/_EditText_Password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp"
+        android:id="@+id/_Button_Login" />
+
+    <Button
+        android:text="회원가입"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:id="@+id/_Button_Register"
+        android:layout_below="@+id/_Button_Login"
+        android:layout_alignLeft="@+id/_Button_Login"
+        android:layout_alignStart="@+id/_Button_Login" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="172.30.1.56"
+        android:ems="10"
+        android:layout_below="@+id/_Button_Register"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:id="@+id/_EditText_ServerIP" />
+
+</RelativeLayout>
